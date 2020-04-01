@@ -1,0 +1,9 @@
+= Neat and spiffy utils
+
+== A collection of utilities
+
+Written in shell script (Bash) and Clojure.
+
+
+
+
